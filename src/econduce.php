@@ -2,7 +2,7 @@
 /**
 *programador : Julio Cesar Valadez Castañeda 
 *modulo:test econduce
-*descripción: prueba de desarrollo para econduce
+*descripción: prueba de desarrollo para vacante desarrollador backend
 *fecha : 01/08/2018
 *modificado por:
 *fecha de modificación:
